@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: grey;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: lightgray;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: darkgreen;
+}
+
+section {
+  padding: 20px;
+}
+
+.track-img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+.signature {
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.1em;
+  text-align: right;
+  margin-top: 30px;
+}
